@@ -1,4 +1,4 @@
-FROM filecoin/sentinel-visor-dev:master-625a7cce
+FROM filecoin/sentinel-visor-dev:master-ed757daa
 WORKDIR /usr/bin/
 
 ADD s5cmd .
